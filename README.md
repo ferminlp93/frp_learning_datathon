@@ -7,30 +7,6 @@ Aitor Mira Abad
 Fermín Leal Payá
 Fecha: 2019-03-15
 
-¡¡¡EXPLICACIÓN DETALLADA EN EL NOTEBOOK ENTREGADO!!!
-
-**ÍNDICE**
-**1. Tratamiento de Imágenes**
-**1.1 Carga y Extracción de Datos de Imágenes
-1.2 Reducción de Dimensión
-2. Tratamiento de Datos**
-**2.1 Carga de Datos
-2.2 Feature Engineering
-2.3 NLP
-2.4 Feature Interactions
-2.5 Target Engineering
-2.5.1 Linealización del Target
-2.5.2 Target Anómalos
-3. Modelling**
-**3.1 Preparación de Datos
-3.2 Definición de Modelos
-3.3 Entrenamiento y Validación
-4. Predicción y Entrega**
-**ANEXO I. Optimización.
-AI.1 Búsqueda de Parámetros Óptimos
-AI.2 Percentil Óptimo
-AI.3 NLP**
----
 # 1. TRATAMIENTO DE IMÁGENES
 # 1.1 Carga y Extracción de Datos de Imágenes
 El primer paso a dar en el presente reto es el procesado de imágenes. Con el objetivo de tratarlas más adelante junto a los datos de entrenamiento, vamos a obtener la siguiente información:
